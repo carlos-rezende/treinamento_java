@@ -29,7 +29,7 @@ public class DesafoCalculadora {
 		
 		entrada.close();
 		
-		// ler um numero
+	
 		
 		
 	}
